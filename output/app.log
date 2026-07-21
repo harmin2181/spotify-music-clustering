@@ -1,0 +1,2 @@
+2026-07-21 15:41:29,592 - __main__ - ERROR - Application error: Missing required environment variables: SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET
+2026-07-21 15:43:13,169 - __main__ - ERROR - Application error: Missing required environment variables: SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET
